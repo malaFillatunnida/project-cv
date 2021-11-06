@@ -1,0 +1,26 @@
+#mala {
+    padding: 50px;
+    margin-left: 70px;
+}
+
+body {
+    background-color: grey;
+}
+
+.border1 {
+    border: 1px solid lightgrey;
+    padding: 20px;
+    width: 300px;
+    background-color: lightgrey;
+    float: left;
+}
+
+.border2 {
+    border: 1px solid white;
+    padding: 20px;
+    background-color: white;
+    float: left;
+    width: 60%;
+    height: 894px;
+    margin-bottom: 50px;
+}
